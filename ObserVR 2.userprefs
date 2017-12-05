@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/rotate.cs">
+    <Files>
+      <File FileName="Assets/Scripts/rotate.cs" Line="5" Column="26" />
+      <File FileName="Assets/GoogleVR/Scripts/GvrViewer.cs" Line="49" Column="8" />
+      <File FileName="Assets/GoogleVR/Scripts/EventSystem/GvrPointerInputModule.cs" Line="90" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
